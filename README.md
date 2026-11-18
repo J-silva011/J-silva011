@@ -69,9 +69,9 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos prátic
 
 <div align="center">
 
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=J-silva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-  ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+  ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=J-silva011&layout=compact&theme=tokyonight)
 
 </div>
 
