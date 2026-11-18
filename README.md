@@ -1,33 +1,33 @@
-# 👨‍💻 Olá! Seja bem-vindo ao meu GitHub!
+&#x20;\<div align="center">
 
-<div align="center">
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:32106B,100:0077B6&height=180&section=header&text=HELLO,%20WORLD!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Tecnologia%20%7C%20Desenvolvimento%20%7C%20Inovação&descAlignY=58&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:090014,50:32106B,100:0077B6\&height=180\&section=header\&text=HELLO,%20WORLD!\&fontSize=42\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=35\&desc=Tecnologia%20%7C%20Desenvolvimento%20%7C%20Inovação\&descAlignY=58\&descSize=16)" />
 
-  <h2>🚀 Técnico em Informática em formação | Desenvolvedor</h2>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Aprendendo%2C+criando+e+evoluindo!;Desenvolvimento+e+tecnologia](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Bem-vindo+ao+meu+perfil!;Aprendendo%2C+criando+e+evoluindo!;Desenvolvimento+e+tecnologia)" />
 
-  🎓 Formando em Técnico em Informática pelo EMTI.
-
-  💻 Back-end | 🌐 Redes | 🔧 Hardware | 🤖 Inteligência Artificial
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+perfil!;Desenvolvimento+e+tecnologia;Aprendendo%2C+criando+e+evoluindo!" alt="Apresentação animada" />
-
-</div>
+\</div>
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Técnico em Informática pelo EMTI, apaixonado por tecnologia e interessado em explorar diferentes áreas da computação.
+\<div align="center">
 
-Tenho interesse especial em desenvolvimento de sistemas, infraestrutura tecnológica e soluções inovadoras.
+### 🚀 Técnico em Informática em formação | Desenvolvedor
 
-### 🎯 Minhas áreas de interesse
+🎓 Formando em Técnico em Informática pelo EMTI.
+
+💻 Back-end | 🌐 Redes | 🔧 Hardware | 🤖 Inteligência Artificial
+
+\</div>
+
+Tenho interesse em desenvolvimento de sistemas, infraestrutura tecnológica e soluções inovadoras. Estou sempre buscando aprimorar meus conhecimentos por meio de estudos e projetos práticos.
+
+### 🎯 Áreas de interesse
 
 - 💻 **Back-end:** desenvolvimento de sistemas e lógica de programação.
-- 🌐 **Redes de Computadores:** infraestrutura, conectividade e configuração de redes.
-- 🔧 **Hardware:** montagem, manutenção e conhecimento de componentes.
-- 🤖 **Inteligência Artificial:** exploração de tecnologias inteligentes e automação.
-
-Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos práticos e transformar ideias em soluções tecnológicas.
+- 🌐 **Redes:** infraestrutura, conectividade e configuração.
+- 🔧 **Hardware:** montagem, manutenção e componentes.
+- 🤖 **Inteligência Artificial:** tecnologias inteligentes e automação.
 
 ---
 
@@ -35,64 +35,64 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos prátic
 
 ### 💻 Linguagens de programação e desenvolvimento
 
-<div align="center">
+\<div align="center">
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+\<img src="[https://skillicons.dev/icons?i=html,css,js,java,python,php&theme=dark](https://skillicons.dev/icons?i=html,css,js,java,python,php\&theme=dark)" />
 
-</div>
+\</div>
 
 ### 🗄️ Banco de dados
 
-<div align="center">
+\<div align="center">
 
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+\<img src="[https://skillicons.dev/icons?i=mysql&theme=dark](https://skillicons.dev/icons?i=mysql\&theme=dark)" />
 
-</div>
+\</div>
 
 ### 🔧 Ferramentas e tecnologias
 
-<div align="center">
+\<div align="center">
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=dark](https://skillicons.dev/icons?i=git,github,vscode\&theme=dark)" />
 
-</div>
+\<img src="[https://img.shields.io/badge/Inteligência_Artificial-8A2BE2?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Inteligência_Artificial-8A2BE2?style=for-the-badge\&logo=openai\&logoColor=white)" />
 
+\</div>
+
+---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+\<div align="center">
 
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=J-silva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=J-silva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=J-silva011\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true\&hide_border=true)" />
 
-  ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=J-silva011&layout=compact&theme=tokyonight)
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=J-silva011&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=J-silva011\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
-</div>
+\<img width="90%" src="[https://github-readme-activity-graph.vercel.app/graph?username=J-silva011&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=J-silva011\&theme=tokyo-night\&hide_border=true)" />
+
+\</div>
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-<div align="center">
+\<div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+\<a href="[https://github.com/J-silva011](https://github.com/J-silva011)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
 
-</div>
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
-  ### 🚀 Sempre aprendendo, desenvolvendo e evoluindo!
+### 🚀 Sempre aprendendo, desenvolvendo e evoluindo!
 
-  *"A tecnologia transforma ideias em possibilidades."*
+*"A tecnologia transforma ideias em possibilidades."*
 
-  ![Visitas ao perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square&label=Visualizações+do+perfil)
+\<img src="[https://komarev.com/ghpvc/?username=J-silva011&color=blueviolet&style=flat-square&label=Visualizações+do+perfil](https://komarev.com/ghpvc/?username=J-silva011\&color=blueviolet\&style=flat-square\&label=Visualizações+do+perfil)" />
 
-</div>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:32106B,100:090014&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0077B6,50:32106B,100:090014\&height=100\&section=footer)" />
+
+\</div>
