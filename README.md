@@ -76,7 +76,7 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos prátic
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-silva011)
 
 </div>
 
@@ -88,6 +88,6 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos prátic
 
   *"A tecnologia transforma ideias em possibilidades."*
 
-  ![Visitas ao perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square&label=Visualizações+do+perfil)
+  ![Visitas ao perfil](https://komarev.com/ghpvc/?username=J-silva011&color=blueviolet&style=flat-square&label=Visualizações+do+perfil)
 
 </div>
