@@ -56,15 +56,7 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos prátic
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" alt="Visual Studio Code"/>
-
-</div>
-
-### 🔧 Ferramentas e tecnologias
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" alt="Visual Studio Code"/> &nbsp; <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55" alt="Inteligência Artificial"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" alt="Visual Studio Code"/> <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55" alt="Inteligência Artificial"/>
 
 </div>
 
