@@ -64,12 +64,9 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver projetos prátic
 
 <div align="center">
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" alt="Visual Studio Code"/> &nbsp; <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55" alt="Inteligência Artificial"/>
 
 </div>
-
 
 ## 📊 Estatísticas do GitHub
 
